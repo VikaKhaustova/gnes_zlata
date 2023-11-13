@@ -16,6 +16,8 @@ header {
     height: 650px;
     background-repeat: no-repeat;
     background-size: cover;
+    width: 100%;
+    marhin: 0;
 }
 
 header img {
