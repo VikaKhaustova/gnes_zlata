@@ -68,10 +68,10 @@ main{
     justify-content: space-between;
 } 
 .info-img{
-    width: 25vw;
+    width: 35vw;
 } 
 .info-div{
-    width: 50%;
+    width: 40%;
 } 
 .info-div h2{
     color: #000;
@@ -115,7 +115,7 @@ main{
     line-height: normal;
 }
 .sale img{
-    width: 25vw;
+    width: 35vw;
 }
 .sale p{
     color: #000;
