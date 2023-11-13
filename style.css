@@ -114,7 +114,9 @@ main{
     font-weight: 400;
     line-height: normal;
 }
-
+.sale img{
+    width: 25vw;
+}
 .sale p{
     color: #000;
     font-family: Roboto;
